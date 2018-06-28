@@ -1,0 +1,33 @@
+{
+    "author": "aLeaf",
+    "dependencies": {},
+    "keywords": [],
+    "name": "rpi-digital",
+    "pebble": {
+        "displayName": "RPI Digital",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/tconverted (1).png",
+                    "name": "RPI",
+                    "targetPlatforms": [
+                        "chalk"
+                    ],
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "chalk"
+        ],
+        "uuid": "f651b0b8-94c5-42af-9410-8c18b6a59e88",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
